@@ -1,12 +1,1 @@
-# Getting Started
-
-```sh
-yarn install
-yarn start
-```
-
-Open [http://localhost:3001](http://localhost:3001).
-
-# Lineage
-
-Forked from [MFE Webpack Demo](https://github.com/mizx/mfe-webpack-demo)
+Teste feito em cima do repositório [wp5-and-single-spa](https://github.com/jherr/wp5-and-single-spa)
